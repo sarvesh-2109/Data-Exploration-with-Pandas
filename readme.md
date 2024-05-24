@@ -37,5 +37,4 @@ The code is well-commented and organized into sections, making it easy to unders
 
 You can run this notebook in any Python environment that supports Jupyter notebooks, such as Google Colab, JupyterLab, or Jupyter Notebook. Simply upload the dataset file and execute the code cells to perform data exploration and analysis.
 
-```python
-# Execute the code cells in the notebook to perform data exploration with Pandas
+
